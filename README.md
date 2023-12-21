@@ -1,5 +1,5 @@
 # HDGAS
- New Hydrodynamic Simulation: Hydrodynamic simulations of the Disk of Gas Around Supermassive black holes 
+ Hydrodynamic simulations of the Disk of Gas Around Supermassive black holes 
 
 
 A description of the model and its default calibration results can be found in [Raouf et al. (2023)]((https://ui.adsabs.harvard.edu/abs/2023MNRAS.524..786R/abstract). 
