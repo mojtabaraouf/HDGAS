@@ -1,4 +1,4 @@
-# HDGAS_Hydro
+# HDGAS
  New Hydrodynamic Simulation: Hydrodynamic simulations of the Disk of Gas Around Supermassive black holes 
 
 
