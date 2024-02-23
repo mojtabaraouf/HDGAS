@@ -10,6 +10,12 @@ Please email me to access the generated snapshots output or radiative transfer f
 raouf@strw.leidenuniv.nl
 mojtaba.raouf@gmail.com
 
+
+The link for download data: 
+BH3V10B1-CHIMES simulation : https://surfdrive.surf.nl/files/index.php/s/MgWSWGir8ELYDlB
+BH3V5B1-CHIMES simulation : Soon
+BH3V5B6-CHIMES simulation : Soon
+
 Density Map: 
 
 https://github.com/mojtabaraouf/HDGAS_Hydro-Sim/assets/15625041/0fa0f150-997b-45d8-83d6-4d4047c48c92
