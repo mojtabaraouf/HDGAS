@@ -29,4 +29,6 @@ Temperature Map:
 
 https://github.com/mojtabaraouf/HDGAS_Hydro-Sim/assets/15625041/9c844d17-5034-4990-a5bf-02789e4f47e1
 
+AGN activity: 
 
+![jet](https://github.com/mojtabaraouf/HDGAS/assets/15625041/d6ca968c-832f-4e3e-bd80-0a66f95afedd)
