@@ -32,3 +32,17 @@ https://github.com/mojtabaraouf/HDGAS_Hydro-Sim/assets/15625041/9c844d17-5034-49
 AGN activity: 
 
 ![jet](https://github.com/mojtabaraouf/HDGAS/assets/15625041/d6ca968c-832f-4e3e-bd80-0a66f95afedd)
+
+CND scale: 
+
+https://github.com/mojtabaraouf/HDGAS/assets/15625041/ed8fca0f-6505-4501-bd60-b40c8bba9d07
+
+Torus scale: 
+
+https://github.com/mojtabaraouf/HDGAS/assets/15625041/5d1249c9-e5bc-42d4-a2b3-b0e321fd66fb
+
+SMBH:
+
+https://github.com/mojtabaraouf/HDGAS/assets/15625041/0d84cede-fb4c-42bf-86f6-221ba696afdf
+
+
