@@ -43,6 +43,4 @@ The following links provide visualizations of the simulation data:
 A full description of the model and results is available in:
 
 Raouf et al. (2023), [MNRAS, 524, 786](https://ui.adsabs.harvard.edu/abs/2023MNRAS.524..786R/abstract)
-
-
-I've reduced the image sizes to 150px width for better display in the README.  The GIFs were not included in the original prompt, so I haven't addressed their size.  If you provide the GIFs, I can optimize them as well.
+Raouf et al. (2025), [MNRAS, 539, 1516](https://ui.adsabs.harvard.edu/abs/2025MNRAS.539.1516R/abstract)
